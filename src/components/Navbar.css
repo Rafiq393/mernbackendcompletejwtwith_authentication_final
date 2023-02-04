@@ -1,0 +1,25 @@
+#nav{
+    margin-bottom: 1px;
+  width:81rem;
+  height:4.5rem;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 500;
+  font-size:x-large;
+  
+}
+#logo{
+  width: 30px;
+  height:30px;
+}
+.admin{
+  color: white;
+  font-style: italic;
+  margin-left: 15px;
+  background-color: yellowgreen;
+  
+}
+.outline-success{
+  width:12rem;
+  height: 2rem;
+}

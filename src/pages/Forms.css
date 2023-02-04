@@ -1,0 +1,25 @@
+.form{
+    margin-left: 30rem;
+    margin-right: 30rem;
+     border-radius: 13rem;  
+   
+}
+.forms{
+    background-color:black;
+    color:white;
+    font-size: larger;
+    border-radius: 13rem; 
+   
+}
+.mb-4{
+    margin-left: 2rem;
+    margin-right: 25rem;
+     width:38.5rem;
+     height: 4rem;
+     border-radius: 13rem; 
+
+}
+.mb-5{
+    margin-top: 2rem;
+    border-radius: 13rem; 
+}

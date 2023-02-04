@@ -1,0 +1,35 @@
+.login{
+    background-color: black;
+    margin-top: 7rem;
+   
+    font-size: x-large;
+    font-style: italic;
+   
+   
+}
+body{
+    background-color:black;
+    /* margin-left:25rem;
+    margin-right:  25rem;
+    text-align:center; */
+    text-align: center;
+    color:white;
+    
+    
+     
+}
+input{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    width:15rem;
+    height:3rem;
+   border-radius: 1rem;
+   
+}
+input[type="submit"]{
+   margin-top: 1rem;
+   width:6rem;
+   background-color: green;
+   margin-bottom: 20rem;
+}

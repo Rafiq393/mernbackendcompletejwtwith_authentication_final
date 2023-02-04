@@ -1,0 +1,43 @@
+.main{
+    color: rgb(243, 250, 243);
+    font-size: 1.5rem;
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 3px;
+    margin-left: 55px;
+    margin-right: 55px;
+   
+   background-color: black;
+   text-align: center;
+}
+h1,h2,h3{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: rgb(243, 250, 243);
+}
+#aims{
+    background-color: black;
+    margin-top: 5mm;
+  
+}
+/* .hero-image {
+      
+     margin-top:5px;
+     width: 45.7rem;
+      height:20rem;
+    } */
+    /* #flag {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height:500x;
+        width:500px;
+      } */
+
+      #flag{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0mm;
+      }
